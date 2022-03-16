@@ -1,16 +1,13 @@
 {
   "files": {
     "main.css": "/unode/static/css/main.073c9b0a.css",
-    "main.js": "/unode/static/js/main.29887bc8.js",
-    "static/js/787.2e2c6cc4.chunk.js": "/unode/static/js/787.2e2c6cc4.chunk.js",
-    "static/media/logo.svg": "/unode/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/unode/static/js/main.4c655a0f.js",
     "index.html": "/unode/index.html",
     "main.073c9b0a.css.map": "/unode/static/css/main.073c9b0a.css.map",
-    "main.29887bc8.js.map": "/unode/static/js/main.29887bc8.js.map",
-    "787.2e2c6cc4.chunk.js.map": "/unode/static/js/787.2e2c6cc4.chunk.js.map"
+    "main.4c655a0f.js.map": "/unode/static/js/main.4c655a0f.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.29887bc8.js"
+    "static/js/main.4c655a0f.js"
   ]
 }
