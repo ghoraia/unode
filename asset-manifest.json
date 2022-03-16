@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/unode/static/css/main.073c9b0a.css",
-    "main.js": "/unode/static/js/main.0b3114f2.js",
+    "main.js": "/unode/static/js/main.26121b1f.js",
     "index.html": "/unode/index.html",
     "main.073c9b0a.css.map": "/unode/static/css/main.073c9b0a.css.map",
-    "main.0b3114f2.js.map": "/unode/static/js/main.0b3114f2.js.map"
+    "main.26121b1f.js.map": "/unode/static/js/main.26121b1f.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0b3114f2.js"
+    "static/js/main.26121b1f.js"
   ]
 }
